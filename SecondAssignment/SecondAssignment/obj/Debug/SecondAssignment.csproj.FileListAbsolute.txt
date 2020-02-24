@@ -1,0 +1,7 @@
+C:\Users\Mladen\source\repos\SecondAssignment\SecondAssignment\bin\Debug\SecondAssignment.exe.config
+C:\Users\Mladen\source\repos\SecondAssignment\SecondAssignment\bin\Debug\SecondAssignment.exe
+C:\Users\Mladen\source\repos\SecondAssignment\SecondAssignment\bin\Debug\SecondAssignment.pdb
+C:\Users\Mladen\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mladen\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.exe
+C:\Users\Mladen\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.pdb

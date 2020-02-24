@@ -1,0 +1,27 @@
+SugarHigh - Explanation
+
+-When you run the program, first you need to enter a number of candies.
+Program checks if entered value satisfies the given boundiries, and checks does the value is string or number. 
+If that isn't the case, program want let you to continue until you entered a regular value.
+
+-When you entered a regular value for the number of candies, now you need to enter a sugar value for each candie.
+Program checks if entered value satisfies the given boundiries, and checks does the value is string or number. 
+If that isn't the case, program want let you to continue until you entered a regular value.
+
+-When you entered a sugar value for each candie, now you need to enter a value for treshold.
+Program checks if entered value satisfies the given boundiries, and checks does the value is string or number. 
+If that isn't the case, program want let you to continue until you entered a regular value.
+
+-When you done with all input data, program finds indices of candies wich you can eat without passing a treshold.
+
+How does program do that?
+-I created array of candies and one more array wich I called sortedCandies, wich has same elements like array candies.
+-Then I sorted array sortedCandies in ascending order with algorithm merge sort.
+-Now I can go through the sortedCandies array and sum the values of sugar until I pass a treshold, this is how I can
+find the number of candies wich you can eat, wich represents the length of array indicesOfCandies.
+-When I'm done with that, now I need to find the indices of candies and put it in array indicesOfCandies.
+-However, I lost the true indicies of candies wich you can consume when I sorted array of candies.
+-In order to find true indicies, I have two for loops, the boundire for the first loop is a number of candies wich you can eat,
+we've find it earlier, now I am comparing elements from sortedCandies array with elements in candies array until I find the
+matching, when I find a matching I have original index of element and I put it in array indicesOfCandies.
+-Then I sort array indicesOfCandies with merge sort algorithm in ascending order and print them.

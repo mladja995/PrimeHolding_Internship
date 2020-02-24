@@ -1,0 +1,7 @@
+C:\Users\Mladen\source\repos\SugarHigh\SugarHigh\bin\Debug\SugarHigh.exe.config
+C:\Users\Mladen\source\repos\SugarHigh\SugarHigh\bin\Debug\SugarHigh.exe
+C:\Users\Mladen\source\repos\SugarHigh\SugarHigh\bin\Debug\SugarHigh.pdb
+C:\Users\Mladen\source\repos\SugarHigh\SugarHigh\obj\Debug\SugarHigh.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\source\repos\SugarHigh\SugarHigh\obj\Debug\SugarHigh.csproj.CoreCompileInputs.cache
+C:\Users\Mladen\source\repos\SugarHigh\SugarHigh\obj\Debug\SugarHigh.exe
+C:\Users\Mladen\source\repos\SugarHigh\SugarHigh\obj\Debug\SugarHigh.pdb

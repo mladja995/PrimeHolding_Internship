@@ -1,0 +1,16 @@
+Java/.NET Assignment - Explenation
+
+How to run?
+-Double click on file "SecondAssignment.sln", then press "Start"(Ctrl+F5).
+
+How it works?
+-Application has abstract class Card which is inherited by classes BronzeCard, SilverCard and GoldCard.
+-Class Card has properties Owner, Turnover, InitialDiscount and one abstract method called CalculateDiscount wich
+must be override by inherited classes.
+-Classes BronzeCard, SilverCard and GoldCard has their own implementation of method CalculateDiscount based
+on their properties.
+-Class PayDesk has one static method ShowInformatios which shows information about discount rate, discount 
+and the total purchase value based on the discount card and the current purchase.
+-In the Main function I created object of each discount card with examples you gave it to me and I showed 
+required informations with function ShowInformations form PayDesk class.
+
